@@ -8,7 +8,7 @@ import os
 TOKEN = "8573133540:AAE8AFrP_i1VNt0b3MJkUpfhXU4RjYHIWN4"  
 DAILY_LIMIT = 3
 DATA_FILE = "noir_data.json"
-CHANNEL_ID = "@ofcnoirsociety"
+CHANNEL_ID = "@MenfessNoirOfc"
 
 # ===== LOAD DATA USER =====
 if os.path.exists(DATA_FILE):
