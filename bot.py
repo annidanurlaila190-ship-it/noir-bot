@@ -174,7 +174,7 @@ async def handle_menfess(update: Update, context: ContextTypes.DEFAULT_TYPE):
 ━━━━━━━━━━━━━━━━━━━━━━
 🕐 {datetime.now().strftime('%d/%m/%Y %H:%M')}
 ━━━━━━━━━━━━━━━━━━━━━━
-🖤 @ofcnoirsociety
+🖤 @MenfessNoirOfc
         """
         
         await context.bot.send_message(
