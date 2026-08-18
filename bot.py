@@ -105,7 +105,7 @@ Kirim lewat bot menfess ajaa, dijamin ke kirim secara anonim!
 - Message✉️ : 
 - Songs💿🎶 :</code>
 
-Setiap pesan bakal dipost di channel @ofcnoirsociety
+Setiap pesan bakal dipost di channel @MenfessNoitOfc
 
 3x sehari, be nice ya guys gunakan bot dengan bijak.
 
