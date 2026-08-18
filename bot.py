@@ -105,7 +105,7 @@ Kirim lewat bot menfess ajaa, dijamin ke kirim secara anonim!
 - Message✉️ : 
 - Songs💿🎶 :</code>
 
-Setiap pesan bakal dipost di channel @MenfessNoitOfc
+Setiap pesan bakal dipost di channel @MenfessNoirOfc
 
 3x sehari, be nice ya guys gunakan bot dengan bijak.
 
@@ -194,7 +194,7 @@ async def handle_menfess(update: Update, context: ContextTypes.DEFAULT_TYPE):
             f"💿 Songs: {songs_text}\n\n"
             f"📊 Sisa kuota hari ini: {sisa}/{DAILY_LIMIT}\n\n"
             f"🖤 Noir Society\n"
-            f"📢 Cek di @ofcnoirsociety"
+            f"📢 Cek di @MenfessNoirOfc"
         )
         
     except Exception as e:
@@ -259,7 +259,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "⚠️ INGET YA!\n"
             "• Message wajib diisi!\n"
             "• Max 3x sehari!\n"
-            "• Kirim ke @ofcnoirsociety\n\n"
+            "• Kirim ke @MenfessNoirOfc\n\n"
             "🖤 Noir Society",
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton("🔙 Balik", callback_data="back")]
